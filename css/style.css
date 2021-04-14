@@ -1,0 +1,24 @@
+.box{
+	height: 70px;
+	width: 100%;
+}
+.box1{
+	background-color: red;
+}
+.box2{
+	background-color: green;
+}
+.box3{
+	background-color: blue;
+}
+/**
+ * Text 1
+ */
+#text1
+{
+    margin:           3.0em 0.0em;
+    overflow:         hidden;
+    font:             normal normal normal 2.0em/1.5 'Open Sans Light', sans-serif;
+    color:            #ffffff;
+    background-color: #3fafee;
+}
